@@ -1,0 +1,42 @@
+#name{
+    color: black;
+    background-color:red;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 100px;
+    padding: 30px;
+    }
+    #uname{
+    text-transform: capitalize;
+    border-radius: 5px;
+    background-color:rgb(199, 199, 128);
+    margin: auto;;
+    }
+    #email{
+    text-transform: capitalize;
+    border-radius: 5px;
+    background-color: rgb(199, 199, 128);
+    }
+    #button{
+    
+    text-transform: capitalize;
+    border-radius: 5px;
+    background-color:rgb(199, 199, 128);
+    }
+#pass{
+    text-transform: capitalize;
+    border-radius: 5px ;
+    background-color: rgb(199, 199, 128);
+}
+#c-pass{
+    text-transform: capitalize;
+    border-radius: 5px;
+    background-color: rgb(199, 199, 128);
+}
+button{
+    border-radius: 5px;
+    background-color: rgb(199, 199, 128);
+}
